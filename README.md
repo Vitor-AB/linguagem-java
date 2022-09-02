@@ -3,7 +3,7 @@ Revisão sobre a linguagem Java
 
 ## Tópicos de Estudos
 
-1. [Linguagem de programação Java](01.md)
+* 1. [Linguagem de programação Java](01.md)
   * Paradigmas de Programação
   * Modelo de Tipagem de dados
   * Modelo de construção da Linguagem  
