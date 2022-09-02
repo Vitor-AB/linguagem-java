@@ -61,15 +61,15 @@ Revisão sobre a linguagem Java
   * Método System.out.print
   * Exibir o valor de uma variável
   * Exibir o valor de um decimal  
-* 5.Classe Math
+* 5.[Classe Math](05.md)
   * Definição
   * Principais operações 
-* 6.String
+* 6.[String](06.md)
   * Concatenação de String
   * Principais operações sobre String
   * Comparação de String
   * Diferença entre String e caracter
-* 7.Entrada de Dados
+* 7.[Entrada de Dados](07.md)
   * Classe Scanner
     * Obter um valor inteiro
     * Obter um valor decimal
@@ -94,7 +94,7 @@ Revisão sobre a linguagem Java
     * Em diagonal 
   * Utilizar arranjos e matrizes como parâmetros de métodos 
   * Utilizar arranjos e matrizes como retorno de métodos 
-* 10. Tratamento de Exceções
+* 10.[Tratamento de Exceções](10.md)
   * Definição
   * Exceções comuns
     * Divisão por zero
