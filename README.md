@@ -105,7 +105,7 @@ Revisão sobre a linguagem Java
   * Bloco para capturar diferentes exceções 
   * Bloco finally
   * Lançar uma exceção
-* 11. Métodos estáticos
+* 11. [Métodos estáticos](11.md)
   * Estrutura de declaração de um método estático
   * Nomes válidos e boas práticas 
   * Parâmetros 
@@ -114,7 +114,7 @@ Revisão sobre a linguagem Java
     * Disponíveis na mesma classe
     * Disponíveis em outra classe/arquivo. 
   * Recursão 
-* 12. Classe
+* 12. [Classe](12.md)
   * Definição
     * Representação de classe e objeto na UML
     * Diferença entre classe e objeto
@@ -131,7 +131,7 @@ Revisão sobre a linguagem Java
     * Privado 
   * Sobrecarga de métodos
   * Sobrecarga de construtores
-* 13. Pacotes 
+* 13. [Pacotes](13.md)
   * Definição
      * Representação de pacotes na UML
   * Definição de um pacote em uma classe
@@ -140,10 +140,10 @@ Revisão sobre a linguagem Java
      * Default/Pacote  
   * Pacote default
     * Importar uma classe em um pacote default 
-* 14. Escopo de classe e objeto
+* 14. [Escopo de classe e objeto](14.md)
   * Definição 
   * Palavra reservada static 
-* 15. Herança
+* 15. [Herança](15.md)
   * Definição
      * Representação de herança na UML
   * Criação de uma classe que realiza herança 
@@ -155,14 +155,14 @@ Revisão sobre a linguagem Java
   * Palavra reservada super 
      * Encadeamento de construtor 
      * Encadeamento de método
-* 16. Interface
+* 16. [Interface](16.md)
   * Definição
      * Representação de interface na UML
   * Criação de uma classe que implementa uma interface
   * Sobreescrita de métodos
   * Polimorfismo
     * Conversão de tipos 
-* 17. Classe abstrada
+* 17. [Classe abstrada](17.md)
   * Definição
      * Representação de classe abstrata na UML
   * Criação de uma classe que extende uma classe abstrata
